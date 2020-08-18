@@ -1,0 +1,22 @@
+C:\Users\Nicolas\source\repos\Calculo de Moeda\Calculo de Moeda\bin\Debug\Calculo de Moeda.exe.config
+C:\Users\Nicolas\source\repos\Calculo de Moeda\Calculo de Moeda\bin\Debug\Calculo de Moeda.exe
+C:\Users\Nicolas\source\repos\Calculo de Moeda\Calculo de Moeda\bin\Debug\Calculo de Moeda.pdb
+C:\Users\Nicolas\source\repos\Calculo de Moeda\Calculo de Moeda\obj\Debug\Calculo de Moeda.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\source\repos\Calculo de Moeda\Calculo de Moeda\obj\Debug\Calculo_de_Moeda.Form1.resources
+C:\Users\Nicolas\source\repos\Calculo de Moeda\Calculo de Moeda\obj\Debug\Calculo_de_Moeda.Properties.Resources.resources
+C:\Users\Nicolas\source\repos\Calculo de Moeda\Calculo de Moeda\obj\Debug\Calculo de Moeda.csproj.GenerateResource.cache
+C:\Users\Nicolas\source\repos\Calculo de Moeda\Calculo de Moeda\obj\Debug\Calculo de Moeda.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\source\repos\Calculo de Moeda\Calculo de Moeda\obj\Debug\Calculo de Moeda.exe
+C:\Users\Nicolas\source\repos\Calculo de Moeda\Calculo de Moeda\obj\Debug\Calculo de Moeda.pdb
+E:\Programas C#\Calculo de Moeda\Calculo de Moeda\bin\Debug\Calculo de Moeda.exe.config
+E:\Programas C#\Calculo de Moeda\Calculo de Moeda\bin\Debug\Calculo de Moeda.exe
+E:\Programas C#\Calculo de Moeda\Calculo de Moeda\bin\Debug\Calculo de Moeda.pdb
+E:\Programas C#\Calculo de Moeda\Calculo de Moeda\obj\Debug\Calculo de Moeda.csprojResolveAssemblyReference.cache
+E:\Programas C#\Calculo de Moeda\Calculo de Moeda\obj\Debug\Calculo_de_Moeda.Form1.resources
+E:\Programas C#\Calculo de Moeda\Calculo de Moeda\obj\Debug\Calculo_de_Moeda.Properties.Resources.resources
+E:\Programas C#\Calculo de Moeda\Calculo de Moeda\obj\Debug\Calculo de Moeda.csproj.GenerateResource.Cache
+E:\Programas C#\Calculo de Moeda\Calculo de Moeda\obj\Debug\Calculo de Moeda.csproj.CoreCompileInputs.cache
+E:\Programas C#\Calculo de Moeda\Calculo de Moeda\obj\Debug\Calculo de Moeda.exe
+E:\Programas C#\Calculo de Moeda\Calculo de Moeda\obj\Debug\Calculo de Moeda.pdb
+E:\Pendrive\Aleatorio\Programas_C#\Calculo de Moeda\Calculo de Moeda\obj\Debug\Calculo de Moeda.exe
+E:\Pendrive\Aleatorio\Programas_C#\Calculo de Moeda\Calculo de Moeda\obj\Debug\Calculo de Moeda.pdb
